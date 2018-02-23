@@ -1,0 +1,44 @@
+{
+  "window.zoomLevel": -2,
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "files.associations": {
+    "*js": "javascriptreact"
+  },
+  "workbench.iconTheme": "Monokai Pro Icons",
+  "editor.wordWrap": "on",
+  "window.nativeTabs": true,
+  "typescript.check.npmIsInstalled": false,
+  "editor.tabCompletion": true,
+  "workbench.editor.enablePreview": false,
+  "files.exclude": {
+    "**/.git": false
+  },
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.fontLigatures": true,
+  "window.restoreWindows": "all",
+  "workbench.sideBar.location": "left",
+  "emmet.includeLanguages": {
+    "jsx-sublime-babel-tags": "javascriptreact",
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "plaintext": "jade"
+  },
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "prettier.eslintIntegration": true,
+  "flow.useNPMPackagedFlow": true,
+  "javascript.validate.enable": false,
+  "workbench.colorTheme": "Visual Studio Dark",
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressUpdateNotice": false,
+    "suppressWelcomeNotice": true
+  }
+}
