@@ -1,5 +1,5 @@
 {
-  "window.zoomLevel": -2,
+  "window.zoomLevel": -3,
   "editor.fontSize": 14,
   "editor.tabSize": 2,
   "editor.detectIndentation": false,
@@ -30,7 +30,6 @@
   "prettier.eslintIntegration": true,
   "flow.useNPMPackagedFlow": true,
   "javascript.validate.enable": false,
-  "workbench.colorTheme": "Visual Studio Dark",
   "gitlens.advanced.messages": {
     "suppressCommitHasNoPreviousCommitWarning": false,
     "suppressCommitNotFoundWarning": false,
@@ -40,5 +39,9 @@
     "suppressNoRepositoryWarning": false,
     "suppressUpdateNotice": false,
     "suppressWelcomeNotice": true
-  }
+  },
+  "editor.fontFamily": "'Fira Code', Inconsolata, Monaco, Menlo, 'Courier New', monospace",
+  "prettier.singleQuote": true,
+  "workbench.activityBar.visible": true,
+  "emmet.triggerExpansionOnTab": true
 }
